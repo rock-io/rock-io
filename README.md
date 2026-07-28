@@ -70,6 +70,47 @@
 
 </div>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [gload](https://github.com/RD1878/gload)
+
+[![CI](https://github.com/RD1878/gload/actions/workflows/ci.yml/badge.svg)](https://github.com/RD1878/gload/actions/workflows/ci.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/RD1878/gload)](https://goreportcard.com/report/github.com/RD1878/gload)
+
+**HTTP load tester with a live TUI and CI-friendly SLO gates.**
+
+Lock-free sharded metrics, a hand-written HDR-style histogram
+(2.5 ns/op, zero allocations), multi-step YAML scenarios and
+`--slo "p99<200ms,error_rate<1%"` that fails a build.
+
+Validated against ApacheBench: 30 594 vs 30 211 rps.
+
+`Go` · `bubbletea` · `x/time/rate` · `testing/synctest`
+
+</td>
+<td width="50%" valign="top">
+
+### [hookscope](https://github.com/RD1878/hookscope)
+
+[![CI](https://github.com/RD1878/hookscope/actions/workflows/ci.yml/badge.svg)](https://github.com/RD1878/hookscope/actions/workflows/ci.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/RD1878/hookscope)](https://goreportcard.com/report/github.com/RD1878/hookscope)
+
+**Webhook inspector: Go backend + React UI in one static binary.**
+
+Live SSE stream, configurable fake responses, SSRF-guarded replay
+and curl export. Chronologically sortable ids make paging a cursor
+walk; one runtime dependency on the Go side.
+
+`Go` · `bbolt` · `SSE` · `React` · `TypeScript` · `Zustand`
+
+</td>
+</tr>
+</table>
+
 ## 🎯 What I Do
 
 - 🧩 **Backend Services** — Design and build services and APIs in Go (REST, gRPC)
