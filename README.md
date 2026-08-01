@@ -10,7 +10,7 @@
 [![Telegram](https://img.shields.io/badge/-@rock__io-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/rock_io)
 [![Email](https://img.shields.io/badge/-khokhlov1812@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khokhlov1812@gmail.com)
 
-[![CV](https://img.shields.io/badge/📄_CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/10MgZxmw6GUtd3LsNSz2Vu68LKLQ69vdLOjE05lfod5M/edit?usp=sharing)
+[![CV](https://img.shields.io/badge/📄_CV-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1j5h5eRP6YJmn5agOYFLpi3GTtWM32PAjH34X7l8_ODs/edit?usp=sharing)
 
 </div>
 
