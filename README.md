@@ -75,7 +75,7 @@
 - 🧩 **Backend Services** — Design and build services and APIs in Go (REST, gRPC)
 - 🏗️ **Architecture** — Scalable systems, microservices, clean module boundaries
 - ⚡ **Performance** — Profiling, concurrency, database query optimization
-- 🔗 **Full Picture** — 5+ years of frontend behind me, so I design APIs that are actually pleasant to consume
+- 🔗 **Full Picture** — Solid frontend background, so I design APIs that are actually pleasant to consume
 - 👥 **Mentorship** — Guide developers and establish engineering practices
 
 ## 🌱 Currently Exploring
